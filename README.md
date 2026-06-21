@@ -16,7 +16,7 @@ I'm a **Grade 12 Senior High School Student** small-time developer and CachyOS u
 ### Current Rabbit holes
 - I’m currently building: **[Nothing, I'm busy with school at the moment sadly.]**
 - I’m reading up on: **[(1)Univalence Axiom, (2)Higher Inductive Types (HITs), (3)Homotopy n-Types & Truncation, (4) A System of Logic, Ratiocinative and Inductive]**
-- Ask me about: Why Apple's ecosystem constraints frustrate me, or why compiler optimizations matter.
+- Ask me about: Why I dislike modern Apple
 
 
 <!--[mention your interests, e.g., web applications, data science models, automation tools]. I love solving complex problems and learning new technologies.
